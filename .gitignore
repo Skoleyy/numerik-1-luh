@@ -1,0 +1,13 @@
+# macOS Systemdateien
+.DS_Store
+
+# Virtuelle Umgebungen
+.venv/
+venv/
+
+# VS Code Einstellungen
+.vscode/
+
+# Python & Jupyter Cache
+__pycache__/
+.ipynb_checkpoints/
